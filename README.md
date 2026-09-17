@@ -1,6 +1,6 @@
-# UPPAAL Models for PK/PD-Informed Clinical Guideline Verification
+# UPPAAL Models and Supplementary materials for Our Study
 
-This repository contains the UPPAAL models and verification queries used in our study on the formal verification of clinical practice guidelines incorporating pharmacokinetic/pharmacodynamic (PK/PD) assessment.
+This repository contains the UPPAAL models and verification queries used in our study on the formal verification of clinical practice guidelines with pharmacokinetic/pharmacodynamic (PK/PD) assessment.
 
 ## Overview
 
@@ -17,7 +17,7 @@ The repository includes:
 
 ```text
 /
-├── Basic/
+├── UPPAAL models/
 │   ├── ...
 │
 ├── CaseStudy/
