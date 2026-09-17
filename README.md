@@ -4,8 +4,8 @@ This repository contains the UPPAAL models and supplementary materials of our st
 
 ## Overview
 
--The UPPAAL models represent clinical decision-making processes and treatment pathways implemented in UPPAAL.
--The Supplementary materials contain Supplementary Tables 1-5 and Supplementary Figures 1-3.   
+- The UPPAAL models represent clinical decision-making processes and treatment pathways implemented in UPPAAL.
+- The Supplementary materials contain Supplementary Tables 1-5 and Supplementary Figures 1-3.   
 
 ### The repository includes:
 - Supplementary materials.pdf
