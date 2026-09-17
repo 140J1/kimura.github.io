@@ -8,15 +8,6 @@ This repository contains the UPPAAL models and supplementary materials of our st
 - The Supplementary materials contain Supplementary Tables 1-5 and Supplementary Figures 1-3.   
 
 ### The repository includes:
-- Supplementary materials.pdf
-  - Supplementary Table 1. Examination accuracy of (A) Examination 1 and (B) Examination 2 in Basic scenario
-  - Supplementary Table 2. PK Assessment accuracy in Basic scenario.
-  - Supplementary Table 3. PK Transition Probability when Protocol State is (A) Before Administration, (B) Regimen 0, (C) Regimen 1, or (D) Regimen 2.
-  - Supplementary Table 4. PK Transition Probability when the dosage regimen change (A) from Regimen 0 to Regimen 1, (B) from Regimen 1 to Regimen 2, (C) from Regimen 1 to Regimen 0, or (D) from Regimen 2 to Regimen 1.
-  - Supplementary Table 5. PD Transition. Probability when present PK State is (A) Optimal, (B) Under, or (C) Over.
-  - Supplementary Fig. 1. Protocol activity diagram.
-  - Supplementary Fig. 2. Protocol state machine diagram
-  - Supplementary Fig. 3. Patient state machine diagram
 - UPPAAL_github.zip
   - Basic Evaluation
     - CIGPKPD_Basic_Scenario
@@ -40,3 +31,12 @@ This repository contains the UPPAAL models and supplementary materials of our st
     - CIGPKPD_Lithium_3month; The maintenance TDM interval is every 84 days.
     - CIGPKPD_Lithium_No_PKAssessment
     - CIGPKPD_Lithium_PKPDHU
+- Supplementary materials.pdf
+  - Supplementary Table 1. Examination accuracy of (A) Examination 1 and (B) Examination 2 in Basic scenario
+  - Supplementary Table 2. PK Assessment accuracy in Basic scenario.
+  - Supplementary Table 3. PK Transition Probability when Protocol State is (A) Before Administration, (B) Regimen 0, (C) Regimen 1, or (D) Regimen 2.
+  - Supplementary Table 4. PK Transition Probability when the dosage regimen change (A) from Regimen 0 to Regimen 1, (B) from Regimen 1 to Regimen 2, (C) from Regimen 1 to Regimen 0, or (D) from Regimen 2 to Regimen 1.
+  - Supplementary Table 5. PD Transition. Probability when present PK State is (A) Optimal, (B) Under, or (C) Over.
+  - Supplementary Fig. 1. Protocol activity diagram.
+  - Supplementary Fig. 2. Protocol state machine diagram
+  - Supplementary Fig. 3. Patient state machine diagram
