@@ -25,8 +25,6 @@ This repository contains the UPPAAL models of our study.
     - CIGPKPD_Model_TH2
     - CIGPKPD_No_PKAssessment 
   - Case Study
-    - CIGPKPD_Lithium_1month; The maintenance TDM interval is every 28 days.
-    - CIGPKPD_Lithium_2month; The maintenance TDM interval is every 56 days.
-    - CIGPKPD_Lithium_3month; The maintenance TDM interval is every 84 days.
-    - CIGPKPD_Lithium_No_PKAssessment
-    - CIGPKPD_Lithium_PKPDHU
+    - CIGPKPD_Lithium
+    - CIG_Lithium_No_PKAssessment
+
